@@ -1,0 +1,6 @@
+Introduction to programming:3#COMP133#ComputerScience/algorithms, introduction to c, functions,selection, loops, pointers, arrays, structs
+bntroduction to eng:3#ENG211#FrenchLanguage/letters, numbers, greetings, grammars,statements
+dntroduction to SPANISH:3#SPAN211#FrenchLanguage/letters, numbers, greetings, grammars,statements
+atroduction to java:3#COMP111#FrenchLanguage/letters, numbers, greetings, grammars,statements
+aatroduction to python:3#PYTH111#FrenchLanguage/letters, numbers, greetings, grammars,statements
+aroduction to python:3#PATH111#FrenchLanguage/letters, numbers, greetings, grammars,statements
